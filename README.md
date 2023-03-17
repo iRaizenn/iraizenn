@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![spotify](https://dev.discordprofiles.me/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/190916650143318016)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/791165980838723584)](https://dev.discordprofiles.me/openspotify/791165980838723584)
 
 
 <!--
