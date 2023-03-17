@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<!--
 [![spotify](https://dev.discordprofiles.me/badge/spotify/791165980838723584)](https://dev.discordprofiles.me/openspotify/791165980838723584)
 
 
-<!--
+
 **iraizenn/iraizenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
