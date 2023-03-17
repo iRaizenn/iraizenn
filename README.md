@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![status](https://dev.discordprofiles.me/badge/status/791165980838723584?simple=true)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/190916650143318016)
+
 
 <!--
 **iraizenn/iraizenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
