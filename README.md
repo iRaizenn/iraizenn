@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![status](https://dev.discordprofiles.me/badge/status/791165980838723584?simple=true)
+
 <!--
 **iraizenn/iraizenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
