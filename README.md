@@ -3,5 +3,5 @@ hey there, its me raizen
 
 i mostly code discord.js bots that have a lot of bugs. i also know some bash.
 
-pronouns: he/him ♂\n
+pronouns: he/him ♂
 amateur programmer
