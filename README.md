@@ -1,4 +1,4 @@
-![playing](https://api.statusbadges.me/badge/playing/869416417752121415) [![spotify](https://api.statusbadges.me/badge/spotify/869416417752121415)](https://api.statusbadges.me/openspotify/869416417752121415)
+![playing](https://api.statusbadges.me/badge/playing/791165980838723584) ![vscode](https://api.statusbadges.me/badge/vscode/791165980838723584) [![spotify](https://api.statusbadges.me/badge/spotify/791165980838723584)](https://api.statusbadges.me/openspotify/791165980838723584)
 
 hey there, its me tanmay
 
